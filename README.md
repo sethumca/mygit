@@ -1,1 +1,3 @@
 # mygit
+
+Well i started using github before while...
